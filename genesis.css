@@ -1,0 +1,111 @@
+
+body{
+    margin: 0%;
+    background-image: linear-gradient( 90deg,rgb(212, 0, 255), rgb(56, 216, 228));
+    text-align: center;
+    color: white;
+}
+.voltar{
+    height: 35px;
+    margin:0% 0% 0% -95%;
+}
+.bandeira{
+    position: absolute;
+    margin: -57px 0% 0% 76%;
+    height: 80px;
+    transition: 1s;
+}
+.bandeira:hover{
+    position: absolute;
+    margin: -18px 0% 0% 76%;
+    height: 80px;
+    transition: 1s;
+}
+.logo{
+    margin: 9%;
+    position: relative;
+    height: 150px;
+}
+.imagem{
+    height: 40px;
+}
+.imagem:hover{
+    height: 45px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 100%;
+}
+.cooperacao1{
+    margin: 5.7px;
+    color: white;
+    text-decoration: none;
+}
+.cooperacao1:hover{
+    margin: 5.7px;
+    color: black;
+    text-decoration:underline;
+}
+.cooperacao2{
+    margin: 5.7px;
+    color: white;
+    text-decoration: none;
+}
+.cooperacao2:hover{
+    margin: 5.7px;
+    color: black;
+    text-decoration:underline;
+}
+.cooperacao3{
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
+.cooperacao3:hover{
+    margin: 5px;
+    color: black;
+    text-decoration:underline;
+}
+.mensagem{
+    height: 100px;
+    width: 190px;
+}
+.icon{
+    position: relative;
+    height: 25px;
+}
+.slogan{
+    position: relative;
+    height:70px;
+}
+.assign{
+    position: relative;
+    width: 150px;
+}
+.botaoenv:hover{
+    background-color: rgb(92, 255, 155);
+    color: black;
+    width: 60px;
+    height: 25px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 10px;
+}
+img.doacao {
+    display: grid;
+    transform: rotate(-45deg);
+    margin: 36px 30px 47px 90%;
+    height: 71px;
+    justify-content: end;
+}
+a{
+    display: contents;
+}
+.direitos{
+    font-size: 9px;
+    text-align: center;
+    margin: 0px 0px 1% 0px;
+}
+h6 img{
+margin: 0px 0px -0.5% 0px;
+    height: 20px;
+}
