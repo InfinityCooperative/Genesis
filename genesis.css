@@ -6,25 +6,24 @@ body{
     color: white;
 }
 .voltar{
-    height: 35px;
-    margin:0% 0% 0% -95%;
+    height: 29px;
+    margin: 0% 0% 0% -85%;
 }
 .bandeira{
     position: absolute;
-    margin: -57px 0% 0% 76%;
+    margin: -56px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -18px 0% 0% 76%;
+    margin: -16px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .logo{
-    margin: 9%;
     position: relative;
-    height: 150px;
+    height: 98px;
 }
 .imagem{
     height: 40px;
