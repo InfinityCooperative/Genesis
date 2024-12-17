@@ -32,7 +32,6 @@ body{
     border-radius: 100%;
 }
 h4 {
-    color: white;
     margin: 5px;
 }
 .cooperacao1,
@@ -53,7 +52,6 @@ h4 {
     text-decoration: underline;
 }
 .nomes{
-    color: white;
     margin: 2%;
     display: flex;
     justify-content: space-around;
