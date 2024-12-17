@@ -2,7 +2,6 @@ body{
     margin: 0%;
     background-image: linear-gradient( 90deg,rgb(212, 0, 255), rgb(56, 216, 228));
     text-align: center;
-    color: white;
 }
 .voltar{
     height: 29px;
