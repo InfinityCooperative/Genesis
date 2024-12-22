@@ -23,6 +23,23 @@ body{
     position: relative;
     height: 98px;
 }
+.form{
+    background: darkgray;
+    display: inline-grid;
+    padding: 30px 60px;
+    margin: 50px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+label{
+    margin:10px;
+    font-weight: bold;
+}
+.botaoenv:hover {
+    text-decoration: underline;
+    border-style: solid;
+}
 .imagem{
     height: 40px;
 }
